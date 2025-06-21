@@ -145,6 +145,7 @@ Jun 21 11:51:40 JOB: MY_test_Autisys_JOB[988]: USER_PROCESS: 988 ttys000
 Jun 21 11:57:15 LeodeiMac syslogd[123]: ASL Sender Statistics
 Jun 21 12:08:14 LeodeiMac syslogd[123]: ASL Sender Statistics
 Jun 21 12:12:23 JOB: MY_test_Autisys_JOB[3301]: USER_PROCESS: 3301 ttys001
+Jun 21 12:12:23 JOB: MY_test_Autosys_JOB[3301]: USER_PROCESS: 3301 ttys001
 Jun 21 12:15:45 JOB: MY_test_Autisys_JOB[988]: DEAD_PROCESS: 988 ttys000
 Jun 21 12:15:58 JOB: MY_test_Autisys_JOB[3301]: DEAD_PROCESS: 3301 ttys001
 Jun 21 12:16:08 JOB: MY_test_Autisys_JOB[4799]: USER_PROCESS: 4799 ttys000
