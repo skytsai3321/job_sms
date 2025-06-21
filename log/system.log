@@ -1,0 +1,355 @@
+Jun 20 16:36:00 localhost bootlog[0]: BOOT_TIME 1750462560 0
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:36:22 localhost syslogd[61]: ASL Sender Statistics
+Jun 20 16:40:42 iMac reboot[2112]: SHUTDOWN_TIME: 1750462842 186800
+Jun 20 16:41:24 localhost bootlog[0]: BOOT_TIME 1750462884 0
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 20 16:41:56 localhost syslogd[98]: ASL Sender Statistics
+Jun 20 16:42:10 iMac loginwindow[137]: USER_PROCESS: 137 console
+Jun 20 16:42:20 iMac loginwindow[137]: DEAD_PROCESS: 137 console
+Jun 20 16:42:22 iMac loginwindow[137]: USER_PROCESS: 137 console
+Jun 20 16:51:57 iMac syslogd[98]: ASL Sender Statistics
+Jun 20 17:22:27 iMac syslogd[98]: ASL Sender Statistics
+Jun 20 17:40:10 iMac syslogd[98]: ASL Sender Statistics
+Jun 20 17:56:19 iMac syslogd[98]: ASL Sender Statistics
+Jun 20 18:14:59 iMac syslogd[98]: ASL Sender Statistics
+Jun 20 18:25:23 iMac syslogd[98]: ASL Sender Statistics
+Jun 20 18:28:32 LeodeiMac loginwindow[1530]: USER_PROCESS: 1530 console
+Jun 21 09:36:21 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 09:51:10 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 10:03:50 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 10:20:58 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 10:45:30 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 10:56:15 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 11:08:51 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 11:19:17 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 11:43:57 LeodeiMac syslogd[98]: ASL Sender Statistics
+Jun 21 11:46:29 localhost bootlog[0]: BOOT_TIME 1750477589 0
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 11:47:01 localhost syslogd[123]: ASL Sender Statistics
+Jun 21 11:47:37 LeodeiMac loginwindow[159]: USER_PROCESS: 159 console
+Jun 21 11:51:40 LeodeiMac login[988]: USER_PROCESS: 988 ttys000
+Jun 21 11:57:15 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 12:08:14 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 12:12:23 LeodeiMac login[3301]: USER_PROCESS: 3301 ttys001
+Jun 21 12:15:45 LeodeiMac login[988]: DEAD_PROCESS: 988 ttys000
+Jun 21 12:15:58 LeodeiMac login[3301]: DEAD_PROCESS: 3301 ttys001
+Jun 21 12:16:08 LeodeiMac login[4799]: USER_PROCESS: 4799 ttys000
+Jun 21 12:16:10 LeodeiMac login[4835]: USER_PROCESS: 4835 ttys001
+Jun 21 12:16:26 LeodeiMac login[4835]: DEAD_PROCESS: 4835 ttys001
+Jun 21 12:18:49 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 12:19:35 LeodeiMac login[5130]: USER_PROCESS: 5130 ttys001
+Jun 21 12:19:37 LeodeiMac login[4799]: DEAD_PROCESS: 4799 ttys000
+Jun 21 12:20:08 LeodeiMac login[5130]: DEAD_PROCESS: 5130 ttys001
+Jun 21 12:20:54 LeodeiMac login[5242]: USER_PROCESS: 5242 ttys000
+Jun 21 12:29:15 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 12:40:42 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 12:50:53 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 12:51:05 LeodeiMac login[5242]: DEAD_PROCESS: 5242 ttys000
+Jun 21 12:51:33 LeodeiMac sessionlogoutd[8406]: DEAD_PROCESS: 159 console
+Jun 21 12:51:33 LeodeiMac shutdown[8408]: SHUTDOWN_TIME: 1750481493 974727
+Jun 21 12:53:00 localhost bootlog[0]: BOOT_TIME 1750481580 0
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 12:53:22 localhost syslogd[123]: ASL Sender Statistics
+Jun 21 12:53:48 LeodeiMac loginwindow[160]: USER_PROCESS: 160 console
+Jun 21 13:03:41 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 13:37:27 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 13:47:53 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 13:52:05 LeodeiMac sessionlogoutd[4991]: DEAD_PROCESS: 160 console
+Jun 21 13:52:06 LeodeiMac shutdown[4994]: SHUTDOWN_TIME: 1750485126 498121
+Jun 21 13:52:48 localhost bootlog[0]: BOOT_TIME 1750485168 0
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 13:53:17 localhost syslogd[123]: ASL Sender Statistics
+Jun 21 14:03:38 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 14:13:11 LeodeiMac loginwindow[159]: USER_PROCESS: 159 console
+Jun 21 14:13:38 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 14:14:28 LeodeiMac login[822]: USER_PROCESS: 822 ttys000
+Jun 21 14:23:56 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 14:30:08 LeodeiMac login[822]: DEAD_PROCESS: 822 ttys000
+Jun 21 14:30:12 LeodeiMac login[6345]: USER_PROCESS: 6345 ttys000
+Jun 21 14:33:32 LeodeiMac login[6345]: DEAD_PROCESS: 6345 ttys000
+Jun 21 14:33:35 LeodeiMac sessionlogoutd[7919]: DEAD_PROCESS: 159 console
+Jun 21 14:33:36 LeodeiMac shutdown[7922]: SHUTDOWN_TIME: 1750487616 659099
+Jun 21 14:34:18 localhost bootlog[0]: BOOT_TIME 1750487658 0
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 14:34:43 localhost syslogd[123]: ASL Sender Statistics
+Jun 21 14:35:08 LeodeiMac loginwindow[160]: USER_PROCESS: 160 console
+Jun 21 14:37:31 LeodeiMac login[968]: USER_PROCESS: 968 ttys000
+Jun 21 14:45:03 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 14:55:35 LeodeiMac syslogd[123]: ASL Sender Statistics
+Jun 21 14:57:36 LeodeiMac login[968]: DEAD_PROCESS: 968 ttys000
+Jun 21 14:58:32 LeodeiMac login[3713]: USER_PROCESS: 3713 ttys000
+Jun 21 15:02:00 LeodeiMac login[3713]: DEAD_PROCESS: 3713 ttys000
+Jun 21 15:02:03 LeodeiMac sessionlogoutd[3875]: DEAD_PROCESS: 160 console
+Jun 21 15:02:03 LeodeiMac shutdown[3877]: SHUTDOWN_TIME: 1750489323 931205
+Jun 21 20:22:44 localhost bootlog[0]: BOOT_TIME 1750508564 0
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 21 20:23:07 localhost syslogd[123]: ASL Sender Statistics
+Jun 21 20:23:45 LeodeiMac loginwindow[160]: USER_PROCESS: 160 console
+Jun 21 20:25:10 LeodeiMac login[787]: USER_PROCESS: 787 ttys000
