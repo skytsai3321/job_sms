@@ -7,8 +7,8 @@ def filter_log(file_path):
         for line in log.readlines():
             job = re.search(r"JOB: \w+", line)
             if job is not None:
-                jobs.append(job)
-
+                jobs.append(job.group().split('JOB: ')[1])
+    
     return jobs
 
 
