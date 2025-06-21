@@ -1,4 +1,5 @@
 import asyncio
+import watchlog
 
 
 async def main():
@@ -6,4 +7,6 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    log_path = 'log/system.log'
+
+    asyncio.run(watchlog.watch_log(log_path))
